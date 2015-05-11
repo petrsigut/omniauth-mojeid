@@ -21,7 +21,7 @@ Gem::Specification.new do |gem|
   gem.add_dependency 'rack-openid', '~> 1.3.1'
   gem.add_dependency 'ruby-openid', '~> 2.1.8'
   gem.add_dependency 'omniauth-openid', '~> 1.0.1'
-  gem.add_dependency 'json', '~> 1.7.7'
+  gem.add_dependency 'json', '~> 1.8.0'
 
   gem.add_development_dependency 'rack-test', '~> 0.5'
   gem.add_development_dependency 'rspec', '~> 2.8.0'
